@@ -1,8 +1,6 @@
 ## Welcome to the TeraMEMS Research Group
 
-Welcome to the TeraMEMS Research Group [editor on GitHub](https://github.com/teramems/teramems.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The Tera-MEMS Research Group is concentrated on the development of novel nano- and micro-fabricated components and circuits for terahertz, millimeter-wave, and microwave applications.  In our group, we perform the analytical and numerical design of these components in electrical, optical, and mechanical domains, fabricate those using nano- and micro-scale techniques, and measure their electrical, optical, and mechanical performances, and develop models to characterize their performances.  Our target applications are wireless and optical communications, radars, biomedical and security imaging, and spectroscopy.
 
 ### Markdown
 
