@@ -4,27 +4,14 @@ The Tera-MEMS Research Group is concentrated on the development of novel nano- a
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+TeraMEMS Research Group is looking for full-time MSc and PhD students. Please send your CV's to munlu (at) etu.edu.tr if you are interested...
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details please send your CV's to munlu@etu.edu.tr if you are interested.
 
 ### Jekyll Themes
 
