@@ -1,4 +1,4 @@
-## Welcome to the TeraMEMS Research Group
+## About
 
 The Tera-MEMS Research Group is concentrated on the development of novel nano- and micro-fabricated components and circuits for terahertz, millimeter-wave, and microwave applications.  In our group, we perform the analytical and numerical design of these components in electrical, optical, and mechanical domains, fabricate those using nano- and micro-scale techniques, and measure their electrical, optical, and mechanical performances, and develop models to characterize their performances.  Our target applications are wireless and optical communications, radars, biomedical and security imaging, and spectroscopy.
 
