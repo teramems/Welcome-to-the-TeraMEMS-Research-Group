@@ -8,7 +8,7 @@ The Tera-MEMS Research Group is concentrated on the development of novel nano- a
 ```Information
 
 
-TeraMEMS Research Group is looking for full-time MSc and PhD students. Please send your CV's to munlu (at) etu.edu.tr if you are interested...
+TeraMEMS Research Group is looking for full-time MSc and PhD students. 
 ```
 
 For more details please send your CV's to munlu@etu.edu.tr if you are interested.
@@ -29,7 +29,7 @@ For more details please send your CV's to munlu@etu.edu.tr if you are interested
 
 ### Projects
 
-##1.     Project name: Development of higher order behavior models for NEMS and MEMS microstructures.
+1.     Project name: Development of higher order behavior models for NEMS and MEMS microstructures.
 
 Funded by: TUBITAK (1001).
 
