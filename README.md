@@ -29,7 +29,7 @@ For more details please send your CV's to munlu@etu.edu.tr if you are interested
 
 ### Projects
 
-1.     Project name: Development of higher order behavior models for NEMS and MEMS microstructures.
+##1.     Project name: Development of higher order behavior models for NEMS and MEMS microstructures.
 
 Funded by: TUBITAK (1001).
 
